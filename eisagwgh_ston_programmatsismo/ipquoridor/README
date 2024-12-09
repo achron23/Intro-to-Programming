@@ -1,0 +1,13 @@
+Panagiotis Ilias Katsaitis sdi2100059
+Andreas Chroneas sdi2100217
+
+H ergasia egine 100% otan eimastan kai oi 2 parwn ara exoume synisferei to idio
+Den brikame logo na ftiaksoume 3o source file kai antistoixa 2o header file efoson exoume ena "menu" kai ena arxeio me tis synarthseis mas.
+
+Odigies Metaglwtishs:
+gcc -c ipquoridor.c
+gcc -c ipq1.c
+gcc -o ipquoridor ipquoridor.o ipq1.o
+
+How to Run:
+./ipquoridor
